@@ -6,6 +6,9 @@ using UploadFile.Azure.Interfaces;
 
 namespace UploadFile.Azure.Tests
 {
+    /// <summary>
+    /// Need to run windows azure emulator
+    /// </summary>
     [TestClass]
     public class AzureStorageImplUpload_Should
     {
